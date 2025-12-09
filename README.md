@@ -56,15 +56,33 @@
 
 ---
 
-### 📊 GitHub Stats & Analytics
+### 📊 GitHub Stats & Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arupkumardas-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arupkumardas-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <!-- Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=arupkumardas-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="arupkumardas-dev GitHub stats" 
+    height="180"
+  />
+  
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arupkumardas-dev&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arupkumardas-dev&theme=tokyonight" alt="GitHub Streak"/>
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=arupkumardas-dev&theme=radical&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    height="180"
+  />
 </p>
+
 
 ---
 
