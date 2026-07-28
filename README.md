@@ -16,7 +16,7 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on [**Abar Khabo – Food Delivery App (MERN)**](https://github.com/coderSamrat/Abar-Khabo-Online-Food-Delivery-With-Ai-Chat-Bot)  
-- 🌱 I’m learning **MERN Stack & Advanced UI/UX**  
+- 🌱 I’m learning **Java Spring Boot with Reactjs**  
 - 👨‍💻 My portfolio: [**my-portfolio-five-theta-31.vercel.app**](https://my-portfolio-five-theta-31.vercel.app/)  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX Design**  
 - 📫 Reach me at **arup80424@gmail.com**  
