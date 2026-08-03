@@ -42,19 +42,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></a>
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /></a>
-  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /></a>
+  <!-- <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" /></a> -->
+  <!-- <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /></a> -->
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /></a>
+  <!-- <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /></a> -->
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" /></a>
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" /></a>
   <a href="https://www.photoshop.com/en"><img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Photoshop" /></a>
   <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender" /></a>
-  <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /></a>
+  <!-- <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /></a> -->
   <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" /></a>
-  <a href="https://unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" width="45" height="45" alt="Unreal Engine" /></a>
+  <!-- <a href="https://unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" width="45" height="45" alt="Unreal Engine" /></a> -->
 </p>
 
 ---
