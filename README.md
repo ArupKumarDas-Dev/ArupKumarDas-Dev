@@ -15,10 +15,10 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on [**MOVIE REVIEW SYSTEM(JAVA SPRING BOOT)**](https://github.com/ArupKumarDas-Dev/MovieReview)  
-- 🌱 I’m learning **Java Spring Boot with Reactjs**  
+- 🔭 I’m currently working on [**CommerceX-Logistic Application**](https://github.com/ArupKumarDas-Dev/CommerceX)  
+- 🌱 I’m learning **Docker And Azure**  
 - 👨‍💻 My portfolio: [**my-portfolio-five-theta-31.vercel.app**](https://my-portfolio-five-theta-31.vercel.app/)  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX Design**  
+- 💬 Ask me about **Java Application, Web Development & 3d Application**  
 - 📫 Reach me at **arup80424@gmail.com**  
 - 📄 [**My Resume**](https://my-portfolio-five-theta-31.vercel.app/Images/Arup_Kumar_Das_WebDeveloper_cv.pdf?v=2)  
 - 😄 Fun Fact: **I’m a foodie who loves building apps that make people’s lives easier!**
