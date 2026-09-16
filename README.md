@@ -20,7 +20,7 @@
 - 👨‍💻 My portfolio: [**my-portfolio-five-theta-31.vercel.app**](https://my-portfolio-five-theta-31.vercel.app/)  
 - 💬 Ask me about **Java Application, Web Development & 3d Application**  
 - 📫 Reach me at **arup80424@gmail.com**  
-- 📄 [**My Resume**](https://my-portfolio-five-theta-31.vercel.app/Images/Arup_Kumar_Das_WebDeveloper_cv.pdf?v=2)  
+- 📄 [**My Resume**](https://my-portfolio-five-theta-31.vercel.app/Images/Arup_Kumar_Das_Java_Backend_Resume.pdf)  
 - 😄 Fun Fact: **I’m a foodie who loves building apps that make people’s lives easier!**
 
 ---
